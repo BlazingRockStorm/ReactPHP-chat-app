@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Evenement' => array($vendorDir . '/evenement/evenement/src'),
+    'Colors' => array($vendorDir . '/kevinlebrun/colors.php/src'),
 );

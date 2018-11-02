@@ -88,6 +88,13 @@ class ComposerStaticInitf1eaed2065e7b0c2fe0d0ac20c734242
                 0 => __DIR__ . '/..' . '/evenement/evenement/src',
             ),
         ),
+        'C' => 
+        array (
+            'Colors' => 
+            array (
+                0 => __DIR__ . '/..' . '/kevinlebrun/colors.php/src',
+            ),
+        ),
     );
 
     public static function getInitializer(ClassLoader $loader)
